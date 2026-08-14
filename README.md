@@ -2,6 +2,9 @@
 
 <h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
 
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/06e41a13-3eea-4124-8526-e6add9da1c33" />
+/>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nexus-tech114&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -64,6 +67,8 @@
 ### 📊 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nexus-tech114&show_icons=true&locale=en&layout=compact" alt="nexus-tech114" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nexus-tech114&show_icons=true&locale=en" alt="nexus-tech114" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nexus-tech114&" alt="nexus-tech114" /></p>" correct this code for uploding to github profile readme
+
+
 ### ⭐ Thanks for visiting my profile!
 
 <p align="center">
