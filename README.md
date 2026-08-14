@@ -4,7 +4,6 @@
 <h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/06e41a13-3eea-4124-8526-e6add9da1c33" />
-/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nexus-tech114&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
