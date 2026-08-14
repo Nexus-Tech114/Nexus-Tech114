@@ -1,3 +1,4 @@
+![logo](https://github.com/Nexus-Tech114/Nexus-Tech114/blob/main/ChatGPT%20Image%20Aug%2014%2C%202026%2C%2005_06_57%20PM.png)
 <h1 align="center">Hi 👋, I'm Alipta Sarkar</h1>
 
 <h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
