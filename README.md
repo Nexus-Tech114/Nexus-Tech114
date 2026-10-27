@@ -99,7 +99,7 @@ Got an idea, a suggestion or a cool project? I'd love to hear about it. I'm alwa
 <a href="https://github.com/Nexus-Tech114" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" /></a>
 <a href="mailto:nexustech933@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" /></a>
 <a href="https://www.instagram.com/nexus_tech114/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" /></a>
-<a href="https://www.linkedin.com/in/nexus-tech/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" /></a>
+<a href="https://www.linkedin.com/in/nexus-tech-2387a1429/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" /></a>
 <a href="https://x.com/nexustech114" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="X (Twitter)" width="40" /></a>
 </p>
 
