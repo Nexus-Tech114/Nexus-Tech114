@@ -49,17 +49,17 @@ My way of learning is simple: build stuff, practice a lot, and don't stop just b
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30" alt="🧑‍💻"> My Developer Journey
 
-- 💻 **What I know:** C, HTML and JavaScript
-- 🌱 **What I'm learning now:** Python, Node.js and MongoDB
+- 💻 **What I know:** C, HTML, JavaScript and Python
+- 🌱 **What I'm learning now:** Node.js and MongoDB
 - 🎯 **My goal:** become a good software engineer and build things that solve real problems
 - 🛠️ **How I learn:** get the basics right, try things out, make mistakes, and keep getting better
 
 <p align="left">
   <b>I know</b><br>
-  <img src="https://skillicons.dev/icons?i=c,html,js" height="38" alt="C, HTML, JavaScript" />
+  <img src="https://skillicons.dev/icons?i=c,html,js,py" height="38" alt="C, HTML, JavaScript, Python" />
   <br><br>
   <b>Learning now</b><br>
-  <img src="https://skillicons.dev/icons?i=py,nodejs,mongodb" height="38" alt="Python, Node.js, MongoDB" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" height="38" alt="Node.js, MongoDB" />
   <br><br>
   <b>Tools</b><br>
   <img src="https://skillicons.dev/icons?i=vscode,git,github" height="38" alt="VS Code, Git, GitHub" />
