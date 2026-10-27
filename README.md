@@ -35,7 +35,7 @@
 
 <br clear="right">
 
-<img align="right" src="./images/matrix-neon.png" width="45%">
+<img align="right" src="https://media.giphy.com/media/3ohs7Sjl26eSQjem3K/giphy.gif" width="45%">
 
 > [!CAUTION]
 > - 🔖 Congratulations, you found me!
