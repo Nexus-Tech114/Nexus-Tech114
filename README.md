@@ -31,59 +31,67 @@
 
 ---
 
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"><img align="right" src="https://komarev.com/ghpvc/?username=nexus-tech114&style=for-the-badge&color=ff2bd6">
+## Hey, I'm Alipta! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" alt="👋"> 💻 <img align="right" src="https://komarev.com/ghpvc/?username=nexus-tech114&style=for-the-badge&color=ff2bd6">
 
 <br clear="right">
 
 <img align="right" src="https://media.giphy.com/media/3ohs7Sjl26eSQjem3K/giphy.gif" width="50%" alt="Purple earth">
 
-> [!CAUTION]
-> - 🔖 Congratulations, you found me!
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="26" alt="🚀"> **Learning to code, building cool things, and turning ideas into reality.**
+
+I'm a computer science student who enjoys exploring how technology works and creating things with code. I'm still growing as a developer, but every bug I fix and every concept I learn takes me one step forward.
+
+I believe in **learning by building, improving through practice, and never stopping at “it works.”** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="24" alt="✨">
+
+<br clear="right">
+
+<img src="./images/neon-divider.svg" height="20" width="100%"/>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30" alt="🧑‍💻"> My Developer Journey
+
+- 💻 **Currently know:** C, HTML, and JavaScript
+- 🌱 **Currently exploring:** Python, Node.js, and MongoDB
+- 🎯 **My goal:** Become a skilled software engineer and build projects that solve real problems.
+- 🛠️ **My approach:** Learn the fundamentals, experiment with ideas, make mistakes, and keep improving.
+
+<p align="left">
+  <b>Know</b>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=c,html,js" height="40" alt="C, HTML, JavaScript" />
+  &nbsp;&nbsp;
+  <b>Exploring</b>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py,nodejs,mongodb" height="40" alt="Python, Node.js, MongoDB" />
+  <br>
+  <b>Tools</b>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vscode,git,github" height="40" alt="VS Code, Git, GitHub" />
+</p>
 
 > [!NOTE]
-> - 💻 Passionate about **Web Development & Programming**
+> I'm not here to pretend I know everything. I'm here to learn, build, share my progress, and become better with every project. 🌱
 
 > [!IMPORTANT]
-> - 🌱 I'm currently learning **JavaScript, Python, C and Java**
+> **Current mission:** Strengthen my programming fundamentals, explore frontend and backend development, and turn what I learn into real projects.
+
+> [!TIP]
+> I enjoy creating websites, solving programming problems, exploring new technologies, and discovering better ways to build things. Outside coding, music is my escape — especially **Arijit Singh**. 🎧 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="22" alt="🎶">
 
 > [!WARNING]
-> - ⚡ Fun fact: **Maybe I'm funny 😄**
+> Side effects of coding may include chasing bugs, asking “why isn't this working?”, and celebrating when a single line finally works. 😂
 
-> [!TIP]
-> - 🎧 I love music, and I'm a **die-hard Arijit Singh fan** 🎶
+<img src="./images/neon-divider.svg" height="20" width="100%"/>
 
-> [!NOTE]
-> - 🌐 My portfolio website: **coming soon!**
+### 🚧 What's Coming Next?
 
-> [!IMPORTANT]
-> - 🚀 **My projects: coming soon!**
-> - 🛠️ I haven't published a project yet. This space is ready for my first one.
+🌐 **Portfolio:** In progress — building something that represents my journey.
 
-> [!TIP]
-> - 💌 Want to collaborate or have a question? Reach me at **[nexustech933@gmail.com](mailto:nexustech933@gmail.com)**
+🚀 **Projects:** I'm working toward publishing projects that demonstrate what I learn, from programming fundamentals to web development.
 
-<p align="center">
-  <a href="mailto:nexustech933@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/Nexus-Tech114"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://x.com/nexustech114"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.linkedin.com/in/nexus-tech/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/nexus_tech114/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
+📚 **Learning in public:** This profile is my coding journey, not just a showcase. Expect experiments, improvements, new skills, and progress one commit at a time.
 
----
+<img src="./images/neon-divider.svg" height="20" width="100%"/>
 
-### 🎯 Focus
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30" alt="🤝"> Let's Connect!
 
-<p>
-  <img src="https://img.shields.io/badge/Web_Development-FF2BD6?style=for-the-badge&labelColor=0D0221" alt="Web Development">
-  <img src="https://img.shields.io/badge/Frontend_Development-B026FF?style=for-the-badge&labelColor=0D0221" alt="Frontend Development">
-  <img src="https://img.shields.io/badge/JavaScript-0D0221?style=for-the-badge&logo=javascript&logoColor=00F0FF" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-0D0221?style=for-the-badge&logo=python&logoColor=FF2BD6" alt="Python">
-  <img src="https://img.shields.io/badge/VS_Code-0D0221?style=for-the-badge&logo=visualstudiocode&logoColor=00F0FF" alt="VS Code">
-  <img src="https://img.shields.io/badge/🎧_Music-B026FF?style=for-the-badge&labelColor=0D0221" alt="Music">
-</p>
+Have an idea, a suggestion, or an interesting project? I'm always happy to connect with fellow learners and developers.
 
-<h3 align="left">Connect with me:</h3>
+📩 **Email:** [nexustech933@gmail.com](mailto:nexustech933@gmail.com)
+
 <p align="left">
 <a href="https://github.com/Nexus-Tech114" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" /></a>
 <a href="mailto:nexustech933@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" /></a>
@@ -92,34 +100,10 @@
 <a href="https://x.com/nexustech114" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="X (Twitter)" width="40" /></a>
 </p>
 
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-
-- Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,c,java" alt="JavaScript, Python, C, Java" />
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="VS Code, Git, GitHub" />
-  </a>
-</p>
-
----
-
-<h3 align="center">📁 Projects</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/🚧_Projects-Coming_Soon-FF2BD6?style=for-the-badge&labelColor=0D0221" alt="Projects coming soon" />
-</p>
-
-<p align="center">
-  <i>No public projects yet. Watch this space for my first one. 👀</i>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" width="22" alt="💙"> Thanks for stopping by! Explore my repositories, follow my progress, and let's keep building.
+  <br><br>
+  <b>Code. Learn. Build. Repeat.</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="26" alt="🔥">
 </p>
 
 ---
