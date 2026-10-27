@@ -5,22 +5,22 @@
   <title>Clock</title>
   <style type="text/css">
   #face-outline {
-    fill: #fff;
-    stroke: #d3d3d3;
+    fill: #0D0221;
+    stroke: #FF2BD6;
     stroke-width: 64;
   }
   #face-use,
   #hand-h-use,
   #hand-m-use {
-    fill: #000;
+    fill: #00F0FF;
     stroke: none;
   }
   #hand-s-use {
-    fill: #bd2420;
+    fill: #FF2BD6;
     stroke: none;
   }
   #center-dot {
-    fill: #fff;
+    fill: #0D0221;
     stroke: none;
   }
   @keyframes rotation {

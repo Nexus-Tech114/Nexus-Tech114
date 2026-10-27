@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-midnight-neon.svg",
+  "backgroundColor": "#07021A",
+  "foregroundColor": "#FDF4FF",
+  "strongColor": "#FF2BD6",
+  "weakColor": "#7A68A6",
+  "radarColor": "#00F0FF",
+  "growingAnimation": true,
+  "contribColors": [
+    "#1A0B3D",
+    "#5A2AA6",
+    "#A64DFF",
+    "#FF2BD6",
+    "#00F0FF"
+  ]
+}

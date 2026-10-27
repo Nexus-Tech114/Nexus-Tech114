@@ -20,23 +20,23 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/intro-dark.gif">
     <source media="(prefers-color-scheme: light)" srcset="./images/intro-light.gif">
-    <img src="./images/intro-dark.gif" width="100%" alt="👋 Hi there! I'm Alipta Sarkar, from India: Web Development, JavaScript, Python, C and Java">
+    <img src="./images/intro-dark.gif" width="100%" alt="👋 Hi there! I'm Alipta Sarkar, from India: Web Dev, VS Code, and Arijit Singh on repeat 🎧">
   </picture>
 </div>
 
 <p align="center">
-  <a href="mailto:nexustech933@gmail.com"><img src="https://img.shields.io/badge/📬_Say_hi-nexustech933@gmail.com-2563EB?style=for-the-badge&labelColor=0D1117" alt="Say hi: nexustech933@gmail.com" height="40" /></a>
+  <a href="mailto:nexustech933@gmail.com"><img src="https://img.shields.io/badge/📬_Say_hi-nexustech933@gmail.com-FF2BD6?style=for-the-badge&labelColor=0D0221" alt="Say hi: nexustech933@gmail.com" height="40" /></a>
   <br>
   <b>✨ <a href="mailto:nexustech933@gmail.com">nexustech933@gmail.com</a> ✨</b>
 </p>
 
 ---
 
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"><img align="right" src="https://komarev.com/ghpvc/?username=nexus-tech114&style=for-the-badge&color=blue">
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"><img align="right" src="https://komarev.com/ghpvc/?username=nexus-tech114&style=for-the-badge&color=ff2bd6">
 
 <br clear="right">
 
-<img align="right" src="https://github.com/user-attachments/assets/06e41a13-3eea-4124-8526-e6add9da1c33" width="45%">
+<img align="right" src="./images/matrix-neon.png" width="45%">
 
 > [!CAUTION]
 > - 🔖 Congratulations, you found me!
@@ -50,6 +50,9 @@
 > [!WARNING]
 > - ⚡ Fun fact: **Maybe I'm funny 😄**
 
+> [!TIP]
+> - 🎧 I love music, and I'm a **die-hard Arijit Singh fan** 🎶
+
 > [!NOTE]
 > - 🌐 My portfolio website: **coming soon!**
 
@@ -58,7 +61,7 @@
 > - 🛠️ I haven't published a project yet. This space is ready for my first one.
 
 > [!TIP]
-> - 📗 Want to collaborate or have a question? Reach me at **[nexustech933@gmail.com](mailto:nexustech933@gmail.com)**
+> - 💌 Want to collaborate or have a question? Reach me at **[nexustech933@gmail.com](mailto:nexustech933@gmail.com)**
 
 <p align="center">
   <a href="mailto:nexustech933@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -73,10 +76,12 @@
 ### 🎯 Focus
 
 <p>
-  <img src="https://img.shields.io/badge/Web_Development-0F172A?style=for-the-badge" alt="Web Development">
-  <img src="https://img.shields.io/badge/Frontend_Development-0F172A?style=for-the-badge" alt="Frontend Development">
-  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/Web_Development-FF2BD6?style=for-the-badge&labelColor=0D0221" alt="Web Development">
+  <img src="https://img.shields.io/badge/Frontend_Development-B026FF?style=for-the-badge&labelColor=0D0221" alt="Frontend Development">
+  <img src="https://img.shields.io/badge/JavaScript-0D0221?style=for-the-badge&logo=javascript&logoColor=00F0FF" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-0D0221?style=for-the-badge&logo=python&logoColor=FF2BD6" alt="Python">
+  <img src="https://img.shields.io/badge/VS_Code-0D0221?style=for-the-badge&logo=visualstudiocode&logoColor=00F0FF" alt="VS Code">
+  <img src="https://img.shields.io/badge/🎧_Music-B026FF?style=for-the-badge&labelColor=0D0221" alt="Music">
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -102,7 +107,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="VS Code, Git, GitHub" />
   </a>
 </p>
 
@@ -111,7 +116,7 @@
 <h3 align="center">📁 Projects</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚧_Projects-Coming_Soon-2563EB?style=for-the-badge&labelColor=0D1117" alt="Projects coming soon" />
+  <img src="https://img.shields.io/badge/🚧_Projects-Coming_Soon-FF2BD6?style=for-the-badge&labelColor=0D0221" alt="Projects coming soon" />
 </p>
 
 <p align="center">
@@ -123,17 +128,17 @@
 <h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
-  <a href="https://github.com/Nexus-Tech114"><img src="https://github-readme-stats.vercel.app/api?username=Nexus-Tech114&show_icons=true&line_height=30&rank_icon=github&theme=algolia" alt="GitHub stats" /></a>
+  <a href="https://github.com/Nexus-Tech114"><img src="https://github-readme-stats.vercel.app/api?username=Nexus-Tech114&show_icons=true&line_height=30&rank_icon=github&bg_color=0D0221&title_color=FF2BD6&icon_color=00F0FF&text_color=E9D5FF&ring_color=FF2BD6&border_color=7B2FF7" alt="GitHub stats" /></a>
 </p>
 
 <details open align="center">
   <summary>📊 More Stats</summary>
   <br>
   <div align="center">
-    <a href="https://github.com/Nexus-Tech114"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nexus-Tech114&theme=algolia" width="100%" alt="Profile details" /></a>
+    <a href="https://github.com/Nexus-Tech114"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nexus-Tech114&theme=midnight_purple" width="100%" alt="Profile details" /></a>
     <br><br>
-    <a href="https://github.com/Nexus-Tech114"><img src="https://streak-stats.demolab.com/?user=Nexus-Tech114&theme=algolia" width="49%" alt="Streak" /></a>
-    <a href="https://github.com/Nexus-Tech114"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nexus-Tech114&theme=algolia" width="49%" alt="Productive time" /></a>
+    <a href="https://github.com/Nexus-Tech114"><img src="https://streak-stats.demolab.com/?user=Nexus-Tech114&background=0D0221&border=7B2FF7&stroke=7B2FF7&ring=FF2BD6&fire=00F0FF&currStreakNum=FFFFFF&sideNums=FF2BD6&currStreakLabel=00F0FF&sideLabels=E9D5FF&dates=B4A5D6" width="49%" alt="Streak" /></a>
+    <a href="https://github.com/Nexus-Tech114"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nexus-Tech114&theme=midnight_purple" width="49%" alt="Productive time" /></a>
   </div>
 </details>
 
@@ -143,9 +148,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-midnight-neon.svg">
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg">
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%">
+    <img src="./profile-3d-contrib/profile-midnight-neon.svg" alt="3D contribution graph" width="100%">
   </picture>
 </p>
 
@@ -166,14 +171,14 @@
 </p>
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+<img src="./images/neon-divider.svg" height="20" width="100%"/>
 
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20" height="20">
 <img align="right" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20" height="20">
 <img align="left" src="./images/good-times.svg" width="10%">
 <img align="right" src="./images/good-times.svg" width="10%">
 
-<h2 align="center">【H o b b i e s】</h2>
+<h2 align="center">【Hobbies】</h2>
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
 <img align="left" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70">
@@ -182,16 +187,24 @@
 <br clear="both">
 
 <p align="center">
-  💻 Coding &nbsp;·&nbsp; 🌐 Web Development &nbsp;·&nbsp; 📚 Learning
+  🎧 Music &nbsp;·&nbsp; 💻 Coding &nbsp;·&nbsp; 🌐 Web Development &nbsp;·&nbsp; 📚 Learning
+</p>
+
+<p align="center">
+  🎶 <b>Die-hard Arijit Singh fan</b> 🎶
+</p>
+
+<p align="center">
+  <img src="./images/now-playing.svg" width="420" alt="Now playing: Arijit Singh, on repeat" />
 </p>
 
 <details open align="center">
-  <summary>💙 More</summary>
+  <summary>💜 More</summary>
   <br>
   <div align="center">
     <img src="./images/city.gif" width="60%">
     <br><br>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
     <br><br>
     <p>⏳ 𝚈𝚘𝚞 𝚑𝚊𝚟𝚎 𝚜𝚝𝚊𝚢𝚎𝚍 𝚘𝚗 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚏𝚘𝚛 ◔_◔ ⌛</p>
     <img src="./images/clock.svg" alt="Clock" width="200" height="200" title="⌚ Front-End">
@@ -200,7 +213,7 @@
   </div>
 </details>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+<img src="./images/neon-divider.svg" height="20" width="100%"/>
 
 <div align="center">
 
@@ -236,5 +249,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting!;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18" alt="Thanks for visiting!">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting!;Arijit%20on%20repeat%20🎧;Follow%20Your%20Dreams%20😉&font=Pacifico&center=true&width=650&height=100&color=FF2BD6&vCenter=true&size=20" alt="Thanks for visiting!">
 </p>
