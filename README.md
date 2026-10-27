@@ -1,6 +1,5 @@
 <!-- Banner -->
 <div align="center">
-  <img src="./banner.png" width="100%" alt="Alipta Sarkar — Code. Build. Innovate.">
 </div>
 
 <br>
