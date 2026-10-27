@@ -35,7 +35,7 @@
 
 <br clear="right">
 
-<img align="right" src="https://media.giphy.com/media/3ohs7Sjl26eSQjem3K/giphy.gif" width="45%">
+<p align="center"><img src="https://media.giphy.com/media/3ohs7Sjl26eSQjem3K/giphy.gif" width="100%" alt="Purple earth"></p>
 
 > [!CAUTION]
 > - 🔖 Congratulations, you found me!
