@@ -37,11 +37,11 @@
 
 <img align="right" src="https://media.giphy.com/media/3ohs7Sjl26eSQjem3K/giphy.gif" width="50%" alt="Purple earth">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="26" alt="🚀"> **Learning to code, building cool things, and turning ideas into reality.**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="26" alt="🚀"> I'm learning to code and building small things along the way.
 
-I'm a computer science student who enjoys exploring how technology works and creating things with code. I'm still growing as a developer, but every bug I fix and every concept I learn takes me one step forward.
+I'm a computer science student, and I really like figuring out how tech works behind the scenes. I'm still a beginner in a lot of ways, but every bug I fix and every new thing I learn moves me a little forward.
 
-I believe in **learning by building, improving through practice, and never stopping at “it works.”** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="24" alt="✨">
+My way of learning is simple: build stuff, practice a lot, and don't stop just because it “works”. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="24" alt="✨">
 
 <br clear="right">
 
@@ -49,46 +49,49 @@ I believe in **learning by building, improving through practice, and never stopp
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30" alt="🧑‍💻"> My Developer Journey
 
-- 💻 **Currently know:** C, HTML, and JavaScript
-- 🌱 **Currently exploring:** Python, Node.js, and MongoDB
-- 🎯 **My goal:** Become a skilled software engineer and build projects that solve real problems.
-- 🛠️ **My approach:** Learn the fundamentals, experiment with ideas, make mistakes, and keep improving.
+- 💻 **What I know:** C, HTML and JavaScript
+- 🌱 **What I'm learning now:** Python, Node.js and MongoDB
+- 🎯 **My goal:** become a good software engineer and build things that solve real problems
+- 🛠️ **How I learn:** get the basics right, try things out, make mistakes, and keep getting better
 
 <p align="left">
-  <b>Know</b>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=c,html,js" height="40" alt="C, HTML, JavaScript" />
-  &nbsp;&nbsp;
-  <b>Exploring</b>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py,nodejs,mongodb" height="40" alt="Python, Node.js, MongoDB" />
-  <br>
-  <b>Tools</b>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vscode,git,github" height="40" alt="VS Code, Git, GitHub" />
+  <b>I know</b><br>
+  <img src="https://skillicons.dev/icons?i=c,html,js" height="38" alt="C, HTML, JavaScript" />
+  <br><br>
+  <b>Learning now</b><br>
+  <img src="https://skillicons.dev/icons?i=py,nodejs,mongodb" height="38" alt="Python, Node.js, MongoDB" />
+  <br><br>
+  <b>Tools</b><br>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" height="38" alt="VS Code, Git, GitHub" />
 </p>
 
 > [!NOTE]
-> I'm not here to pretend I know everything. I'm here to learn, build, share my progress, and become better with every project. 🌱
+> I don't know everything, and I'm not going to pretend I do. I'm here to learn, build, share what I make, and get a bit better with every project. 🌱
 
 > [!IMPORTANT]
-> **Current mission:** Strengthen my programming fundamentals, explore frontend and backend development, and turn what I learn into real projects.
+> **Right now I'm focused on:** getting my basics strong, trying out both frontend and backend, and turning what I learn into real projects.
 
 > [!TIP]
-> I enjoy creating websites, solving programming problems, exploring new technologies, and discovering better ways to build things. Outside coding, music is my escape — especially **Arijit Singh**. 🎧 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="22" alt="🎶">
+> I love making websites, solving coding problems and playing around with new tech. When I'm not coding, I'm listening to music, mostly Arijit Singh. 🎧 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="22" alt="🎶">
 
 > [!WARNING]
-> Side effects of coding may include chasing bugs, asking “why isn't this working?”, and celebrating when a single line finally works. 😂
+> Side effects of coding may include chasing bugs, asking “why isn't this working?” way too many times, and celebrating like crazy when one single line finally works. 😂
 
 <img src="./images/neon-divider.svg" height="20" width="100%"/>
 
 ### 🚧 What's Coming Next?
 
-🌐 **Portfolio:** In progress — building something that represents my journey.
+🌐 **Portfolio:** I'm building it right now. It'll show my journey so far.
 
-🚀 **Projects:** I'm working toward publishing projects that demonstrate what I learn, from programming fundamentals to web development.
+🚀 **Projects:** My first projects are on the way, from programming basics to web development.
 
-📚 **Learning in public:** This profile is my coding journey, not just a showcase. Expect experiments, improvements, new skills, and progress one commit at a time.
+📚 **Learning in public:** This profile isn't a showcase, it's my coding diary. Expect experiments, fixes, new skills and progress, one commit at a time.
 
 <img src="./images/neon-divider.svg" height="20" width="100%"/>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30" alt="🤝"> Let's Connect!
 
-Have an idea, a suggestion, or an interesting project? I'm always happy to connect with fellow learners and developers.
+Got an idea, a suggestion or a cool project? I'd love to hear about it. I'm always happy to meet other learners and developers.
 
 📩 **Email:** [nexustech933@gmail.com](mailto:nexustech933@gmail.com)
 
@@ -101,7 +104,7 @@ Have an idea, a suggestion, or an interesting project? I'm always happy to conne
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" width="22" alt="💙"> Thanks for stopping by! Explore my repositories, follow my progress, and let's keep building.
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" width="22" alt="💙"> Thanks for dropping by! Have a look at my repos, follow along, and let's keep building.
   <br><br>
   <b>Code. Learn. Build. Repeat.</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="26" alt="🔥">
 </p>
