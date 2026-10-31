@@ -79,13 +79,11 @@ My way of learning is simple: build stuff, practice a lot, and don't stop just b
 
 <img src="./images/neon-divider.svg" height="20" width="100%"/>
 
-### 🚧 What's Coming Next?
+### 🚧 What's Next
 
-🌐 **Portfolio:** I'm building it right now. It'll show my journey so far.
-
-🚀 **Projects:** My first projects are on the way, from programming basics to web development.
-
-📚 **Learning in public:** This profile isn't a showcase, it's my coding diary. Expect experiments, fixes, new skills and progress, one commit at a time.
+- 🌐 **Portfolio** — in progress
+- 🚀 **Projects** — first builds on the way
+- 📚 **Learning in public** — progress, one commit at a time
 
 <img src="./images/neon-divider.svg" height="20" width="100%"/>
 
